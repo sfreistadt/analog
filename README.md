@@ -61,6 +61,7 @@ Signup admin → `http://localhost:4000/admin`
 
 - [Brief](docs/brief.md)
 - [Market brainstorm](docs/market-brainstorm.md)
+- [Competitive landscape](docs/competitive-landscape.md)
 - [Segment: Parents](docs/segments/parents.md)
 - [Concept: Scavenger hunt format](docs/concepts/scavenger-hunt.md)
 
